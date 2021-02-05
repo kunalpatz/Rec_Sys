@@ -37,6 +37,7 @@ Jupyter Notebook
                 |- tags.csv
     |- notebooks
         |- eda_movielens.ipynb
+        |- model_pipeline.ipynb
     |- requirements.txt
 ```
 
