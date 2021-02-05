@@ -1,4 +1,4 @@
-# RecSys 
+# Recommender System 
 ### Practical work for subject "Recommender System"
 
 ### Author:
