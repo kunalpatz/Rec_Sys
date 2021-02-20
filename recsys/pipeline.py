@@ -20,7 +20,7 @@ def get_trained_model(algo: str, model_kwargs: dict, train_set: Trainset) -> Alg
     elif algo == 'SVD':
         model = SVD()
     else:                
-        raise Exception('Only support: SVD, KNN, NMF')
+        print('Error!!')
     time_start = time.time()
     model.fit(train_set)
     time_end = time.time()
